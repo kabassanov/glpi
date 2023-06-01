@@ -65,7 +65,7 @@
         "tecnickcom/tcpdf": "^6.4",
         "true/punycode": "^2.1",
         "twig/string-extra": "^3.3",
-        "twig/twig": "^3.3",
+        "twig/twig": "^3.6",
         "wapmorgan/unified-archive": "^1.1"
     },
     "require-dev": {
