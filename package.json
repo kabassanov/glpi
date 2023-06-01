@@ -40,7 +40,7 @@
         "gridstack": "^5.0.0",
         "hotkeys-js": "^3.8.7",
         "html5sortable": "^0.13.2",
-        "jquery": "^3.4.1",
+        "jquery": "^3.7.0",
         "jquery-migrate": "^3.1.0",
         "jquery-prettytextdiff": "^1.0.4",
         "jquery-ui": "^1.11.4",
