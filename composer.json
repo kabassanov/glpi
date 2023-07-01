@@ -48,7 +48,7 @@
         "rlanvin/php-rrule": "^2.3",
         "sabre/dav": "^4.2",
         "sabre/http": "^5.1",
-        "sabre/uri": "^2.2",
+        "sabre/uri": "^2.3",
         "sabre/vobject": "^4.4",
         "scssphp/scssphp": "^1.8",
         "sebastian/diff": "^4.0",
